@@ -1,0 +1,60 @@
+﻿{
+    "exchange": [
+        {
+            "id": "0",
+            "title": "Uni Swap",
+            "subtitle": "",
+            "avatar_url": "https://github.com/paytubeio/file/tree/main/image/UniSwap.png",
+            "open_url": "https://coinmarketcap.com/zh/currencies/uniswap/"
+        },
+        {
+            "id": "1",
+            "title": "Aave",
+            "subtitle": "",
+            "avatar_url": "https://github.com/paytubeio/file/tree/main/image/Aave.png",
+            "open_url": "https://coinmarketcap.com/zh/currencies/aave/"
+        },
+        {
+            "id": "2",
+            "title": "Compound",
+            "subtitle": "",
+            "avatar_url": "https://github.com/paytubeio/file/tree/main/image/Compound.png",
+            "open_url": "https://coinmarketcap.com/zh/currencies/compound/"
+        },
+        {
+            "id": "3",
+            "title": "Curve DAO Token",
+            "subtitle": "",
+            "avatar_url": "https://github.com/paytubeio/file/tree/main/image/CurveDAOToken.png",
+            "open_url": "https://coinmarketcap.com/zh/currencies/curve-dao-token/"
+        },
+        {
+            "id": "4",
+            "title": "SushiSwap",
+            "subtitle": "",
+            "avatar_url": "https://github.com/paytubeio/file/tree/main/image/SushiSwap.png",
+            "open_url": "https://coinmarketcap.com/zh/currencies/sushiswap/"
+        },
+        {
+            "id": "5",
+            "title": "Uniswap (V3)",
+            "subtitle": "",
+            "avatar_url": "https://github.com/paytubeio/file/tree/main/image/Uniswap(V3).png",
+            "open_url": "https://coinmarketcap.com/zh/exchanges/uniswap-v3/"
+        },
+        {
+            "id": "6",
+            "title": "1inch Exchange",
+            "subtitle": "",
+            "avatar_url": "https://github.com/paytubeio/file/tree/main/image/1inchExchange.png",
+            "open_url": "https://coinmarketcap.com/zh/exchanges/1inch-exchange/"
+        },
+        {
+            "id": "7",
+            "title": "QuickSwap",
+            "subtitle": "",
+            "avatar_url": "https://github.com/paytubeio/file/tree/main/image/QuickSwap.png",
+            "open_url": "https://coinmarketcap.com/zh/exchanges/quickswap/"
+        }
+    ]
+}
